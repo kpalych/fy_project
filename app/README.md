@@ -17,4 +17,5 @@
 #### Тест сервиса:
 
 `$ cd app`
+
 `$ python test_client.py`
