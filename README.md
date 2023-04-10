@@ -47,4 +47,12 @@
 #### Тест сервиса:
 
 `$ cd app`
+
 `$ python test_client.py`
+
+### Данные:
+
+Данные для каталога `/model/data` можно скачать по [ссылке](https://disk.ya.ru/zsrytSEHGZDFrgb)
+
+Данные для каталога `/shared_libs/data` можно скачать по [ссылке](https://disk.ya.ru/zsrytSEHGZDFrgb)
+

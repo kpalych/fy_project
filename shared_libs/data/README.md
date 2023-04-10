@@ -3,4 +3,4 @@
 
 ### Данные:
 
-Данные для этого каталого можно скачать по [ссылке](https://disk.ya.ru/zsrytSEHGZDFrgb)
+Данные для этого каталога можно скачать по [ссылке](https://disk.ya.ru/zsrytSEHGZDFrgb)
