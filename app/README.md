@@ -6,7 +6,7 @@
 * Файл *[predict_server.py](https://github.com/kpalych/fy_project/blob/master/app/predict_server.py)* - сервер сервиса предсказаний стоимости домов
 * Файл *[test_client.py](https://github.com/kpalych/fy_project/blob/master/app/test_client.py)* - тестовый клиент для проверки работы сервиса (использует валидационный набор данных)
 
-#### Загрузка Docker-образа из репозитория:
+#### Загрузка Docker-образа сервиса предсказания цены недвижимости из репозитория:
 
 `$ docker pull kpalych/fy_project`
 
