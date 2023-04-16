@@ -76,7 +76,7 @@ def predict_action():
         force_rebuild_cached_data=False
     )
     
-    model = data_transform.get_current_prediction_model('../shared_libs/data/models')
+    model = data_transform.get_current_prediction_model('../shared_libs/data/models', 'model_abr')
     
     y_pred = model.predict(df)
     

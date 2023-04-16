@@ -52,7 +52,7 @@
 
 ### Данные:
 
-Данные для каталога `/model/data` можно скачать по [ссылке](https://disk.ya.ru/zsrytSEHGZDFrgb)
+Данные для каталога `/model/data` можно скачать по [ссылке](https://disk.yandex.com/d/7MTBHrgHyIQXJg)
 
-Данные для каталога `/shared_libs/data` можно скачать по [ссылке](https://disk.ya.ru/zsrytSEHGZDFrgb)
+Данные для каталога `/shared_libs/data` можно скачать по [ссылке](https://disk.yandex.com/d/FfP-ZVKgRPAViw)
 
